@@ -22,6 +22,7 @@ A entrada é composta por dois números inteiros a e b (-1.000 ≤ a, b < 1.000)
 Saída
 Imprima o quociente q seguido pelo resto r da divisão de a por b, considerando as regras apresentadas a cima.
 
+
  
 Exemplos de Entrada	Exemplos de Saída
 7 3
